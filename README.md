@@ -1,2 +1,2 @@
 my_first_repo
-Tyler Mead
+Tyler Sutton Mead
